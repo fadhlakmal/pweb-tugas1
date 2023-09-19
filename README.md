@@ -1,4 +1,4 @@
-## Tugas 1 Pemograman Web
+## Tugas 1 Pemrograman Web
 membuat web html css sederhana
 
 #### Nama: Fadhl Akmal Madany
